@@ -28,7 +28,7 @@ This project is an interactive Sales Performance Dashboard created using Microso
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard Screenshot.png)
+![Dashboard](Dashboard.png)
 
 ## Author
 PN Kavitha
